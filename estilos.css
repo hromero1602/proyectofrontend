@@ -1,0 +1,31 @@
+html{
+    font-size: 16px;
+}
+h1{
+color: greenyellow ;
+
+}
+p {
+    color: indigo;
+    font-size: 1em;
+
+}
+
+#Mi-div{
+    background-color: blueviolet;
+    width: 80%;
+    height: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 50px;
+}
+ul{
+    width: 50%;
+    margin: 0%;
+}
+li{
+    font-size: 1em;
+    font-style: initial;
+    display: inline;
+    margin: 2x5px;
+}
